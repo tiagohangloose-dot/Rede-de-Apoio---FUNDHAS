@@ -1,0 +1,6 @@
+{
+  "name": "Rede de Atendimento Fundhas — São José dos Campos",
+  "description": "Dashboard executivo interativo com mapa georreferenciado, indicadores territoriais, gráficos e busca da Rede de Atendimento Fundhas em São José dos Campos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
